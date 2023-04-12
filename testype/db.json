@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm A",
+      "price": "36000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "6",
+      "id": 18
+    },
+    {
+      "name": "Sản phẩm A",
+      "price": "36000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "6",
+      "id": 19
+    },
+    {
+      "name": "Sản phẩm A",
+      "price": "36000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "7",
+      "id": 20
+    },
+    {
+      "name": "Sản phẩm B",
+      "price": "360000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "8",
+      "id": 21
+    },
+    {
+      "name": "Sản phẩm B",
+      "price": "360000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "7",
+      "id": 22
+    },
+    {
+      "name": "Làm nail B",
+      "price": "360000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "6",
+      "id": 23
+    },
+    {
+      "name": "Thêm mới rồi nhá",
+      "price": "60000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "https://imagevietnam.vn/images/_thumbs/serum_tri_nam_iluma_new.jpg",
+      "categoryId": "7",
+      "id": 24
+    }
+  ],
+  "categories": [
+    {
+      "nameCategory": "Categories BBBB",
+      "id": 6
+    },
+    {
+      "nameCategory": "Categories C",
+      "id": 7
+    },
+    {
+      "nameCategory": "Categories G",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Thaoasdasdasd",
+      "fullName": "Dau Phuong Thao",
+      "email": "thaodau147@gmail.com",
+      "password": "123thao",
+      "role": "admin"
+    },
+    {
+      "name": "Thảo",
+      "fullname": "Đậu",
+      "email": "dauphuongthao147@gmail.com",
+      "password": "asdasdasd6wqe5qw",
+      "id": 2
+    },
+    {
+      "name": "DDaauuuuuu",
+      "fullname": "Đậu",
+      "email": "dauphuongthao147@gmail.com",
+      "password": "asdasdasd6wqe5qw",
+      "id": 3
+    },
+    {
+      "name": "akkakaka",
+      "fullname": "kakaskdasdksad",
+      "email": "dauphuongthao147@gmail.com",
+      "password": "asdasdasd6wqe5qw",
+      "role": "member",
+      "id": 4
+    },
+    {
+      "name": "Thảo",
+      "fullname": "Đậu",
+      "email": "dauphuongthao123456@gmail.com",
+      "password": "12345678",
+      "role": "member",
+      "id": 5
+    },
+    {
+      "name": "Thảo",
+      "fullname": "Đậu",
+      "email": "dauphuongthao147258@gmail.com",
+      "password": "dauphuongthao147258",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "name": "Thảo",
+      "fullname": "Đậu",
+      "email": "dauphuongthao147@gmail.com",
+      "password": "15151515151",
+      "role": "member",
+      "id": 7
+    }
+  ]
+}
